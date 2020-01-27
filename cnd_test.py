@@ -43,7 +43,7 @@ if img:
 
 	prediction = model.predict(image)
 
-	if(np.argmax(prediction)>0):
+	if(np.max(prediction)>0):
 		
 		label = LABEL_NAMES[0]
 
