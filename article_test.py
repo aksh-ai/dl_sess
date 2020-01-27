@@ -42,4 +42,4 @@ if text:
 
 	score = np.max(predictions)
 
-	print('\nHighest Probable Publisher: {} | Confidence Score: {}'.format(label, score))
+	print('\nHighest Probable Publisher: {} | Confidence Score: {:.2f}'.format(label, score))
