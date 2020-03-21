@@ -1,6 +1,6 @@
 # Deep Learning Session
 
-Code and other materials related to my workshops on Deep Learning.
+Code and other materials related to my workshops on Deep Learning using Tensorflow.
 
 ## Requirements
 
